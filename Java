@@ -1,4 +1,4 @@
-# Calculator-
+
 // Function that performs basic calculator operations
 function calculator(num1, num2, operation) {
     switch (operation) {
